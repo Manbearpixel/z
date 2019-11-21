@@ -1,6 +1,6 @@
 //
 //  SignalStoreInMemoryStorage.h
-//  SignalProtocolTests
+//  SignalProtocol-ObjC
 //
 //  Created by Chris Ballinger on 6/30/16.
 //
@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "SignalAddress.h"
 #import "SignalIdentityKeyPair.h"
+#import "SignalStorage.h"
 @import SignalProtocolC;
 
 NS_ASSUME_NONNULL_BEGIN

@@ -1,6 +1,6 @@
 //
 //  SignalStoreInMemoryStorage.m
-//  SignalProtocolTests
+//  SignalProtocol-ObjC
 //
 //  Created by Chris Ballinger on 6/30/16.
 //
